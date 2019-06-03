@@ -1,3 +1,5 @@
+// [Note] This web app was created to deploy on Now's platform (which requires that the now.json file be in the root of the repository, so this was created as a standalone project to be auto-detected, independent from the integration itself, which should be in a project by itself and then included into web app projects as an integration to help interface with the Contentful CMS)
+
 # Next.js
 
 In this example we will be deploying a simple "Hello World" example with Next.js.
